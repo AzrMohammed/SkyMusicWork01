@@ -1,0 +1,9 @@
+export const footer_ic_video = require('../assets/icons/phone.png');
+export const footer_ic_pod = require('../assets/icons/phone.png');
+export const footer_ic_session = require('../assets/icons/phone.png');
+export const header_ic_switch_camera = require('../assets/icons/phone.png');
+export const header_ic_close = require('../assets/icons/phone.png');
+export const header_ic_settings = require('../assets/icons/phone.png');
+export const header_ic_flash = require('../assets/icons/phone.png');
+export const ic_add_platform = require('../assets/icons/phone.png');
+export const ic_cross = require('../assets/icons/phone.png');
